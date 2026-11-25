@@ -1,0 +1,406 @@
+[
+  {
+    "id": "neem-oil-1500",
+    "name": "Neem Oil 1500 PPM Organic",
+    "genericName": "Azadirachtin 0.15% EC (Neem Oil)",
+    "category": "organic",
+    "isOrganic": true,
+    "packSize": "500 ml",
+    "description": "Broad-spectrum botanical pest repellent for aphids, whiteflies, thrips, mites, and early caterpillars.",
+    "keywords": ["neem oil", "neem", "azadirachtin", "aphids", "whitefly", "thrips", "mites", "organic", "sucking pest"],
+    "crops": ["tomato", "chilli", "cotton", "rice", "wheat", "okra", "potato", "onion", "other"],
+    "image": "/images/products/organic-bottle.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 240, "searchQuery": "Neem Oil 1500 PPM 500ml", "url": "https://www.bighaat.com/search?q=Neem+Oil+1500+PPM" },
+      { "store": "Amazon India", "priceINR": 265, "searchQuery": "Neem Oil 1500 PPM agriculture 500ml", "url": "https://www.amazon.in/s?k=Neem+Oil+1500+PPM+agriculture+500ml" },
+      { "store": "Flipkart", "priceINR": 255, "searchQuery": "Neem oil 1500 ppm plants", "url": "https://www.flipkart.com/search?q=Neem+oil+1500+ppm+plants" }
+    ]
+  },
+  {
+    "id": "trichoderma-viride",
+    "name": "Trichoderma Viride Bio-Fungicide",
+    "genericName": "Trichoderma viride 1% WP",
+    "category": "biological",
+    "isOrganic": true,
+    "packSize": "1 kg",
+    "description": "Beneficial soil and seed fungus that suppresses root rot, wilt, damping-off, and collar rot.",
+    "keywords": ["trichoderma", "wilt", "root rot", "damping off", "fungus", "biological", "seed treatment", "soil"],
+    "crops": ["tomato", "chilli", "cotton", "wheat", "soybean", "sugarcane", "potato", "onion", "other"],
+    "image": "/images/products/bio-pack.svg",
+    "stores": [
+      { "store": "IFFCO Bazar", "priceINR": 140, "searchQuery": "Trichoderma viride", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Trichoderma+viride" },
+      { "store": "BigHaat", "priceINR": 165, "searchQuery": "Trichoderma viride 1 kg", "url": "https://www.bighaat.com/search?q=Trichoderma+viride" },
+      { "store": "Amazon India", "priceINR": 195, "searchQuery": "Trichoderma viride bio fungicide 1kg", "url": "https://www.amazon.in/s?k=Trichoderma+viride+bio+fungicide+1kg" }
+    ]
+  },
+  {
+    "id": "pseudomonas-fluorescens",
+    "name": "Pseudomonas Fluorescens Bio-Control",
+    "genericName": "Pseudomonas fluorescens 1% WP",
+    "category": "biological",
+    "isOrganic": true,
+    "packSize": "1 kg",
+    "description": "Natural beneficial bacteria effective against bacterial wilt, leaf blight, blast, and sheath blight.",
+    "keywords": ["pseudomonas", "bacterial blight", "blast", "sheath blight", "wilt", "biological", "leaf spot"],
+    "crops": ["rice", "tomato", "chilli", "potato", "onion", "sugarcane", "other"],
+    "image": "/images/products/bio-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 175, "searchQuery": "Pseudomonas fluorescens", "url": "https://www.bighaat.com/search?q=Pseudomonas+fluorescens" },
+      { "store": "IFFCO Bazar", "priceINR": 150, "searchQuery": "Pseudomonas", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Pseudomonas" },
+      { "store": "Amazon India", "priceINR": 210, "searchQuery": "Pseudomonas fluorescens agriculture", "url": "https://www.amazon.in/s?k=Pseudomonas+fluorescens+agriculture" }
+    ]
+  },
+  {
+    "id": "beauveria-bassiana",
+    "name": "Beauveria Bassiana Bio-Insecticide",
+    "genericName": "Beauveria bassiana 1.15% WP",
+    "category": "biological",
+    "isOrganic": true,
+    "packSize": "1 kg",
+    "description": "Eco-friendly entomopathogenic fungus that controls bollworms, borers, whiteflies, and beetles.",
+    "keywords": ["beauveria", "bollworm", "borer", "caterpillar", "whitefly", "biological", "pod borer"],
+    "crops": ["cotton", "tomato", "chilli", "maize", "soybean", "other"],
+    "image": "/images/products/bio-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 220, "searchQuery": "Beauveria bassiana", "url": "https://www.bighaat.com/search?q=Beauveria+bassiana" },
+      { "store": "Amazon India", "priceINR": 250, "searchQuery": "Beauveria bassiana bio insecticide", "url": "https://www.amazon.in/s?k=Beauveria+bassiana+bio+insecticide" },
+      { "store": "Flipkart", "priceINR": 240, "searchQuery": "Beauveria bassiana", "url": "https://www.flipkart.com/search?q=Beauveria+bassiana" }
+    ]
+  },
+  {
+    "id": "bt-kurstaki",
+    "name": "Bacillus Thuringiensis (Bt) Bio-Larvicide",
+    "genericName": "Bacillus thuringiensis var. kurstaki",
+    "category": "biological",
+    "isOrganic": true,
+    "packSize": "500 g",
+    "description": "Targeted biological spray for fruit borers, armyworms, and bollworms without harming pollinators.",
+    "keywords": ["bacillus thuringiensis", "bt", "caterpillar", "armyworm", "bollworm", "fruit borer", "larva"],
+    "crops": ["cotton", "tomato", "chilli", "maize", "soybean", "other"],
+    "image": "/images/products/bio-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 320, "searchQuery": "Bacillus thuringiensis", "url": "https://www.bighaat.com/search?q=Bacillus+thuringiensis" },
+      { "store": "Amazon India", "priceINR": 360, "searchQuery": "Bacillus thuringiensis agriculture", "url": "https://www.amazon.in/s?k=Bacillus+thuringiensis+agriculture" }
+    ]
+  },
+  {
+    "id": "yellow-sticky-traps",
+    "name": "Yellow & Blue Sticky Traps (Pack of 20)",
+    "genericName": "UV-Stabilized Insect Sticky Cards",
+    "category": "organic",
+    "isOrganic": true,
+    "packSize": "20 sheets",
+    "description": "Chemical-free monitoring and trapping for whiteflies, aphids, leaf miners, and thrips.",
+    "keywords": ["sticky trap", "yellow trap", "whitefly", "aphids", "thrips", "leaf miner", "organic", "trap"],
+    "crops": ["tomato", "chilli", "cotton", "potato", "onion", "other"],
+    "image": "/images/products/trap.svg",
+    "stores": [
+      { "store": "Amazon India", "priceINR": 199, "searchQuery": "Yellow sticky traps agriculture 20", "url": "https://www.amazon.in/s?k=Yellow+sticky+traps+agriculture" },
+      { "store": "Flipkart", "priceINR": 185, "searchQuery": "Yellow sticky traps plants", "url": "https://www.flipkart.com/search?q=Yellow+sticky+traps+plants" },
+      { "store": "BigHaat", "priceINR": 210, "searchQuery": "Yellow sticky trap", "url": "https://www.bighaat.com/search?q=Yellow+sticky+trap" }
+    ]
+  },
+  {
+    "id": "pheromone-trap-lure",
+    "name": "Pheromone Funnel Trap with Bollworm Lure",
+    "genericName": "Gossyplure / Helicoverpa Pheromone Trap",
+    "category": "organic",
+    "isOrganic": true,
+    "packSize": "5 traps + lures",
+    "description": "Traps male moths of pink bollworm and fruit borer to break breeding cycles early.",
+    "keywords": ["pheromone trap", "pink bollworm", "bollworm", "fruit borer", "moth", "trap", "organic"],
+    "crops": ["cotton", "tomato", "chilli", "maize", "other"],
+    "image": "/images/products/trap.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 290, "searchQuery": "Pheromone trap bollworm", "url": "https://www.bighaat.com/search?q=Pheromone+trap" },
+      { "store": "AgroStar", "priceINR": 275, "searchQuery": "Pheromone trap", "url": "https://www.agrostar.in/search?q=Pheromone+trap" },
+      { "store": "Amazon India", "priceINR": 320, "searchQuery": "Pheromone trap agriculture", "url": "https://www.amazon.in/s?k=Pheromone+trap+agriculture" }
+    ]
+  },
+  {
+    "id": "vermi-seaweed",
+    "name": "Seaweed Extract Liquid Bio-Stimulant",
+    "genericName": "Ascophyllum nodosum Seaweed Extract",
+    "category": "organic",
+    "isOrganic": true,
+    "packSize": "500 ml",
+    "description": "Organic plant tonic that boosts root growth, stress recovery, and flowering.",
+    "keywords": ["seaweed", "bio stimulant", "recovery", "yellowing", "stress", "root", "organic"],
+    "crops": ["wheat", "rice", "tomato", "chilli", "cotton", "potato", "onion", "sugarcane", "other"],
+    "image": "/images/products/organic-bottle.svg",
+    "stores": [
+      { "store": "IFFCO Bazar", "priceINR": 210, "searchQuery": "Sagarika seaweed", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Sagarika" },
+      { "store": "Amazon India", "priceINR": 245, "searchQuery": "Seaweed extract liquid plants", "url": "https://www.amazon.in/s?k=Seaweed+extract+liquid+plants" },
+      { "store": "BigHaat", "priceINR": 230, "searchQuery": "Seaweed extract", "url": "https://www.bighaat.com/search?q=Seaweed+extract" }
+    ]
+  },
+  {
+    "id": "copper-oxychloride",
+    "name": "Copper Oxychloride 50% WP",
+    "genericName": "Copper Oxychloride 50% WP",
+    "category": "fungicide",
+    "isOrganic": false,
+    "packSize": "500 g",
+    "description": "Reliable contact fungicide & bactericide for early/late blight, bacterial leaf spot, and downy mildew.",
+    "keywords": ["copper oxychloride", "blight", "bacterial spot", "downy mildew", "leaf spot", "fungicide", "rot"],
+    "crops": ["tomato", "potato", "chilli", "onion", "rice", "cotton", "other"],
+    "image": "/images/products/chemical-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 310, "searchQuery": "Copper Oxychloride 50 WP", "url": "https://www.bighaat.com/search?q=Copper+Oxychloride" },
+      { "store": "AgroStar", "priceINR": 300, "searchQuery": "Copper Oxychloride", "url": "https://www.agrostar.in/search?q=Copper+Oxychloride" },
+      { "store": "Amazon India", "priceINR": 340, "searchQuery": "Copper Oxychloride 50 WP fungicide", "url": "https://www.amazon.in/s?k=Copper+Oxychloride+50+WP" }
+    ]
+  },
+  {
+    "id": "mancozeb-75",
+    "name": "Mancozeb 75% WP Fungicide",
+    "genericName": "Mancozeb 75% WP",
+    "category": "fungicide",
+    "isOrganic": false,
+    "packSize": "500 g",
+    "description": "Broad-spectrum contact fungicide for early blight, late blight, purple blotch, and leaf spot.",
+    "keywords": ["mancozeb", "early blight", "late blight", "purple blotch", "rust", "leaf spot", "fungicide"],
+    "crops": ["tomato", "potato", "onion", "wheat", "chilli", "maize", "other"],
+    "image": "/images/products/chemical-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 240, "searchQuery": "Mancozeb 75 WP", "url": "https://www.bighaat.com/search?q=Mancozeb+75+WP" },
+      { "store": "IFFCO Bazar", "priceINR": 225, "searchQuery": "Mancozeb", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Mancozeb" },
+      { "store": "Amazon India", "priceINR": 270, "searchQuery": "Mancozeb 75 WP fungicide", "url": "https://www.amazon.in/s?k=Mancozeb+75+WP+fungicide" }
+    ]
+  },
+  {
+    "id": "propiconazole-25",
+    "name": "Propiconazole 25% EC Systemic Fungicide",
+    "genericName": "Propiconazole 25% EC",
+    "category": "fungicide",
+    "isOrganic": false,
+    "packSize": "250 ml",
+    "description": "Systemic triazole fungicide highly effective against wheat yellow/brown rust, sheath blight, and Karnal bunt.",
+    "keywords": ["propiconazole", "wheat rust", "yellow rust", "brown rust", "rust", "sheath blight", "fungicide"],
+    "crops": ["wheat", "rice", "sugarcane", "soybean", "maize", "other"],
+    "image": "/images/products/chemical-bottle.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 380, "searchQuery": "Propiconazole 25 EC", "url": "https://www.bighaat.com/search?q=Propiconazole+25+EC" },
+      { "store": "AgroStar", "priceINR": 365, "searchQuery": "Propiconazole", "url": "https://www.agrostar.in/search?q=Propiconazole" },
+      { "store": "Amazon India", "priceINR": 410, "searchQuery": "Propiconazole 25 EC fungicide", "url": "https://www.amazon.in/s?k=Propiconazole+25+EC" }
+    ]
+  },
+  {
+    "id": "carbendazim-mancozeb",
+    "name": "Carbendazim 12% + Mancozeb 63% WP",
+    "genericName": "Carbendazim 12% + Mancozeb 63% WP",
+    "category": "fungicide",
+    "isOrganic": false,
+    "packSize": "500 g",
+    "description": "Dual systemic + contact fungicide for seed treatment, anthracnose, blast, and leaf spot.",
+    "keywords": ["carbendazim", "mancozeb", "blast", "anthracnose", "dieback", "seed treatment", "fungicide", "blight"],
+    "crops": ["rice", "chilli", "tomato", "potato", "onion", "soybean", "cotton", "other"],
+    "image": "/images/products/chemical-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 310, "searchQuery": "Carbendazim Mancozeb", "url": "https://www.bighaat.com/search?q=Carbendazim+Mancozeb" },
+      { "store": "IFFCO Bazar", "priceINR": 295, "searchQuery": "Carbendazim Mancozeb", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Carbendazim" },
+      { "store": "Flipkart", "priceINR": 335, "searchQuery": "Carbendazim Mancozeb fungicide", "url": "https://www.flipkart.com/search?q=Carbendazim+Mancozeb" }
+    ]
+  },
+  {
+    "id": "sulphur-80-wdg",
+    "name": "Wettable Sulphur 80% WDG",
+    "genericName": "Sulphur 80% WDG",
+    "category": "fungicide",
+    "isOrganic": true,
+    "packSize": "1 kg",
+    "description": "Controls powdery mildew and mites while supplying secondary sulphur nutrition.",
+    "keywords": ["sulphur", "powdery mildew", "mildew", "mites", "yellow mite", "fungicide"],
+    "crops": ["chilli", "tomato", "wheat", "onion", "soybean", "cotton", "other"],
+    "image": "/images/products/organic-pack.svg",
+    "stores": [
+      { "store": "IFFCO Bazar", "priceINR": 145, "searchQuery": "Sulphur 80 WDG", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Sulphur+80" },
+      { "store": "BigHaat", "priceINR": 165, "searchQuery": "Sulphur 80 WDG", "url": "https://www.bighaat.com/search?q=Sulphur+80+WDG" },
+      { "store": "Amazon India", "priceINR": 195, "searchQuery": "Sulphur 80 WDG agriculture", "url": "https://www.amazon.in/s?k=Sulphur+80+WDG" }
+    ]
+  },
+  {
+    "id": "azoxystrobin-tebuconazole",
+    "name": "Azoxystrobin + Tebuconazole Fungicide",
+    "genericName": "Azoxystrobin 11% + Tebuconazole 18.3% SC",
+    "category": "fungicide",
+    "isOrganic": false,
+    "packSize": "250 ml",
+    "description": "Broad-spectrum systemic fungicide for severe rust, rice blast, purple blotch, and fruit rot.",
+    "keywords": ["azoxystrobin", "tebuconazole", "blast", "rust", "purple blotch", "fruit rot", "powdery mildew"],
+    "crops": ["rice", "wheat", "onion", "chilli", "tomato", "soybean", "other"],
+    "image": "/images/products/chemical-bottle.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 480, "searchQuery": "Azoxystrobin Tebuconazole", "url": "https://www.bighaat.com/search?q=Azoxystrobin+Tebuconazole" },
+      { "store": "AgroStar", "priceINR": 460, "searchQuery": "Azoxystrobin Tebuconazole", "url": "https://www.agrostar.in/search?q=Azoxystrobin+Tebuconazole" }
+    ]
+  },
+  {
+    "id": "imidacloprid-17-8",
+    "name": "Imidacloprid 17.8% SL Insecticide",
+    "genericName": "Imidacloprid 17.8% SL",
+    "category": "insecticide",
+    "isOrganic": false,
+    "packSize": "250 ml",
+    "description": "Systemic insecticide for aphids, jassids, whiteflies, thrips, and brown plant hopper.",
+    "keywords": ["imidacloprid", "aphids", "jassids", "whitefly", "hopper", "bph", "thrips", "leaf curl", "sucking pest"],
+    "crops": ["cotton", "rice", "chilli", "tomato", "wheat", "other"],
+    "image": "/images/products/chemical-bottle.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 290, "searchQuery": "Imidacloprid 17.8 SL", "url": "https://www.bighaat.com/search?q=Imidacloprid+17.8+SL" },
+      { "store": "IFFCO Bazar", "priceINR": 270, "searchQuery": "Imidacloprid", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Imidacloprid" },
+      { "store": "Amazon India", "priceINR": 325, "searchQuery": "Imidacloprid 17.8 SL", "url": "https://www.amazon.in/s?k=Imidacloprid+17.8+SL" }
+    ]
+  },
+  {
+    "id": "thiamethoxam-25",
+    "name": "Thiamethoxam 25% WG Insecticide",
+    "genericName": "Thiamethoxam 25% WG",
+    "category": "insecticide",
+    "isOrganic": false,
+    "packSize": "100 g",
+    "description": "Fast-acting systemic granular insecticide for whitefly, aphids, jassids, and stem borer.",
+    "keywords": ["thiamethoxam", "whitefly", "aphids", "jassids", "stem borer", "leafhopper", "sucking pest"],
+    "crops": ["rice", "cotton", "tomato", "chilli", "wheat", "soybean", "other"],
+    "image": "/images/products/chemical-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 180, "searchQuery": "Thiamethoxam 25 WG", "url": "https://www.bighaat.com/search?q=Thiamethoxam+25+WG" },
+      { "store": "AgroStar", "priceINR": 175, "searchQuery": "Thiamethoxam", "url": "https://www.agrostar.in/search?q=Thiamethoxam" },
+      { "store": "Amazon India", "priceINR": 210, "searchQuery": "Thiamethoxam 25 WG", "url": "https://www.amazon.in/s?k=Thiamethoxam+25+WG" }
+    ]
+  },
+  {
+    "id": "emamectin-benzoate",
+    "name": "Emamectin Benzoate 5% SG",
+    "genericName": "Emamectin Benzoate 5% SG",
+    "category": "insecticide",
+    "isOrganic": false,
+    "packSize": "100 g",
+    "description": "Controls bollworms, fruit borers, pod borers, diamondback moth, and fall armyworm.",
+    "keywords": ["emamectin", "bollworm", "pink bollworm", "fruit borer", "armyworm", "pod borer", "caterpillar"],
+    "crops": ["cotton", "tomato", "chilli", "maize", "soybean", "other"],
+    "image": "/images/products/chemical-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 260, "searchQuery": "Emamectin Benzoate 5 SG", "url": "https://www.bighaat.com/search?q=Emamectin+Benzoate" },
+      { "store": "IFFCO Bazar", "priceINR": 245, "searchQuery": "Emamectin Benzoate", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Emamectin" },
+      { "store": "Amazon India", "priceINR": 295, "searchQuery": "Emamectin Benzoate 5 SG", "url": "https://www.amazon.in/s?k=Emamectin+Benzoate+5+SG" }
+    ]
+  },
+  {
+    "id": "chlorantraniliprole-18-5",
+    "name": "Chlorantraniliprole 18.5% SC",
+    "genericName": "Chlorantraniliprole 18.5% SC",
+    "category": "insecticide",
+    "isOrganic": false,
+    "packSize": "60 ml",
+    "description": "Long-duration larvicide for rice stem borer, sugarcane early shoot borer, bollworm, and fruit borer.",
+    "keywords": ["chlorantraniliprole", "stem borer", "shoot borer", "bollworm", "leaf folder", "fruit borer"],
+    "crops": ["rice", "sugarcane", "cotton", "tomato", "maize", "chilli", "soybean", "other"],
+    "image": "/images/products/chemical-bottle.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 490, "searchQuery": "Chlorantraniliprole 18.5 SC", "url": "https://www.bighaat.com/search?q=Chlorantraniliprole" },
+      { "store": "AgroStar", "priceINR": 475, "searchQuery": "Chlorantraniliprole", "url": "https://www.agrostar.in/search?q=Chlorantraniliprole" }
+    ]
+  },
+  {
+    "id": "npk-19-19-19",
+    "name": "NPK 19:19:19 Water Soluble Fertilizer",
+    "genericName": "Balanced NPK 19-19-19 Foliar Grade",
+    "category": "fertilizer",
+    "isOrganic": false,
+    "packSize": "1 kg",
+    "description": "100% water-soluble balanced Nitrogen-Phosphorus-Potassium for foliar recovery after pest or weather stress.",
+    "keywords": ["npk", "fertilizer", "deficiency", "yellowing", "stunted", "nutrition", "19 19 19"],
+    "crops": ["wheat", "rice", "cotton", "tomato", "chilli", "potato", "onion", "sugarcane", "maize", "soybean", "other"],
+    "image": "/images/products/fertilizer-pack.svg",
+    "stores": [
+      { "store": "IFFCO Bazar", "priceINR": 140, "searchQuery": "NPK 19 19 19", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=19%3A19%3A19" },
+      { "store": "BigHaat", "priceINR": 175, "searchQuery": "NPK 19 19 19 1kg", "url": "https://www.bighaat.com/search?q=NPK+19+19+19" },
+      { "store": "Amazon India", "priceINR": 210, "searchQuery": "NPK 19 19 19 water soluble fertilizer 1kg", "url": "https://www.amazon.in/s?k=NPK+19+19+19+water+soluble+1kg" }
+    ]
+  },
+  {
+    "id": "zinc-micronutrient-mix",
+    "name": "Chelated Zinc + Boron Micronutrient Mix",
+    "genericName": "Zinc EDTA 12% + Boron",
+    "category": "fertilizer",
+    "isOrganic": false,
+    "packSize": "500 g",
+    "description": "Corrects zinc deficiency (Khaira disease in rice), leaf yellowing, and poor fruit setting.",
+    "keywords": ["zinc", "boron", "micronutrient", "khaira", "deficiency", "chlorosis", "yellowing"],
+    "crops": ["rice", "wheat", "maize", "tomato", "chilli", "cotton", "onion", "other"],
+    "image": "/images/products/fertilizer-pack.svg",
+    "stores": [
+      { "store": "IFFCO Bazar", "priceINR": 220, "searchQuery": "Zinc EDTA", "url": "https://www.iffcobazar.in/en/catalogsearch/result/?q=Zinc+EDTA" },
+      { "store": "BigHaat", "priceINR": 250, "searchQuery": "Zinc EDTA micronutrient", "url": "https://www.bighaat.com/search?q=Zinc+EDTA" },
+      { "store": "Amazon India", "priceINR": 280, "searchQuery": "Chelated Zinc EDTA agriculture", "url": "https://www.amazon.in/s?k=Chelated+Zinc+EDTA+agriculture" }
+    ]
+  },
+  {
+    "id": "battery-knapsack-sprayer",
+    "name": "16L Battery Knapsack Sprayer",
+    "genericName": "12V 8Ah Rechargeable Agricultural Sprayer",
+    "category": "equipment",
+    "isOrganic": false,
+    "packSize": "16 Litre",
+    "description": "Even, low-effort mist spraying for undersides of leaves without manual pumping fatigue.",
+    "keywords": ["sprayer", "knapsack", "pump", "spray", "underside"],
+    "crops": ["wheat", "rice", "cotton", "tomato", "sugarcane", "maize", "soybean", "chilli", "potato", "onion", "other"],
+    "image": "/images/products/sprayer.svg",
+    "stores": [
+      { "store": "Amazon India", "priceINR": 2399, "searchQuery": "16L battery agriculture sprayer", "url": "https://www.amazon.in/s?k=16L+battery+agriculture+sprayer" },
+      { "store": "Flipkart", "priceINR": 2299, "searchQuery": "16L battery sprayer pump agriculture", "url": "https://www.flipkart.com/search?q=16L+battery+sprayer+agriculture" },
+      { "store": "BigHaat", "priceINR": 2550, "searchQuery": "Battery sprayer 16L", "url": "https://www.bighaat.com/search?q=Battery+sprayer" }
+    ]
+  },
+  {
+    "id": "safety-ppe-kit",
+    "name": "Farmer Spray Safety Kit (Mask, Gloves, Goggles)",
+    "genericName": "Chemical-Resistant PPE Kit",
+    "category": "safety",
+    "isOrganic": false,
+    "packSize": "1 Set",
+    "description": "Reusable nitrile gloves, respirator mask, and splash goggles to stay safe while mixing and spraying.",
+    "keywords": ["safety", "gloves", "mask", "goggles", "protective gear", "ppe", "chemical"],
+    "crops": ["wheat", "rice", "cotton", "tomato", "sugarcane", "maize", "soybean", "chilli", "potato", "onion", "other"],
+    "image": "/images/products/safety-kit.svg",
+    "stores": [
+      { "store": "Amazon India", "priceINR": 349, "searchQuery": "nitrile gloves respirator mask safety goggles kit", "url": "https://www.amazon.in/s?k=nitrile+gloves+respirator+mask+goggles" },
+      { "store": "Flipkart", "priceINR": 329, "searchQuery": "agriculture spray safety kit mask gloves", "url": "https://www.flipkart.com/search?q=spray+safety+kit+mask+gloves" }
+    ]
+  },
+  {
+    "id": "resistant-tomato-seeds",
+    "name": "Leaf Curl Tolerant Hybrid Tomato Seeds",
+    "genericName": "TYLCV-Tolerant F1 Tomato Seed",
+    "category": "seeds",
+    "isOrganic": false,
+    "packSize": "10 g",
+    "description": "High-yielding tomato seed tolerant to Tomato Leaf Curl Virus and early blight for next season.",
+    "keywords": ["tomato seeds", "leaf curl", "virus", "resistant seeds", "seeds"],
+    "crops": ["tomato"],
+    "image": "/images/products/seeds-pack.svg",
+    "stores": [
+      { "store": "BigHaat", "priceINR": 420, "searchQuery": "Tomato hybrid seeds disease resistant", "url": "https://www.bighaat.com/search?q=Tomato+seeds" },
+      { "store": "AgroStar", "priceINR": 395, "searchQuery": "Tomato seeds", "url": "https://www.agrostar.in/search?q=Tomato+seeds" },
+      { "store": "Amazon India", "priceINR": 450, "searchQuery": "Hybrid tomato seeds agriculture 10g", "url": "https://www.amazon.in/s?k=Hybrid+tomato+seeds+agriculture" }
+    ]
+  },
+  {
+    "id": "organic-humic-potash",
+    "name": "Humic Acid + Potash Organic Granules",
+    "genericName": "Potassium Humate 98% Flakes",
+    "category": "organic",
+    "isOrganic": true,
+    "packSize": "1 kg",
+    "description": "Improves soil water holding, root strength, and nutrient uptake in stressed crops.",
+    "keywords": ["humic acid", "potash", "soil health", "root", "organic", "stunted"],
+    "crops": ["wheat", "rice", "cotton", "tomato", "sugarcane", "maize", "soybean", "chilli", "potato", "onion", "other"],
+    "image": "/images/products/organic-pack.svg",
+    "stores": [
+      { "store": "Amazon India", "priceINR": 240, "searchQuery": "Potassium humate humic acid 1kg", "url": "https://www.amazon.in/s?k=Potassium+humate+humic+acid+1kg" },
+      { "store": "BigHaat", "priceINR": 225, "searchQuery": "Humic acid", "url": "https://www.bighaat.com/search?q=Humic+acid" },
+      { "store": "Flipkart", "priceINR": 235, "searchQuery": "Humic acid agriculture 1kg", "url": "https://www.flipkart.com/search?q=Humic+acid+agriculture" }
+    ]
+  }
+]

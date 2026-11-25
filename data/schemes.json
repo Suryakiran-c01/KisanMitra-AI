@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN (Samman Nidhi)",
+    "shortName": "PM-KISAN",
+    "benefit": "Rs 6,000 per year direct bank transfer in 3 equal instalments of Rs 2,000.",
+    "eligibility": "All landholding farmer families across India (subject to exclusion criteria).",
+    "howToApply": "Apply at pmkisan.gov.in, your nearest CSC (Common Service Centre), or local agriculture office with Aadhaar & land records.",
+    "officialUrl": "https://pmkisan.gov.in/",
+    "helpline": "155261 / 011-24300606",
+    "category": "Income Support"
+  },
+  {
+    "id": "pmfby",
+    "name": "PM Fasal Bima Yojana (PMFBY)",
+    "shortName": "PMFBY Crop Insurance",
+    "benefit": "Low-premium crop insurance covering natural calamities, pests, and post-harvest losses (2% Kharif, 1.5% Rabi).",
+    "eligibility": "All farmers including sharecroppers and tenant farmers growing notified crops.",
+    "howToApply": "Enroll via your bank branch, CSC, or pmfby.gov.in before seasonal cut-off dates.",
+    "officialUrl": "https://pmfby.gov.in/",
+    "helpline": "14447",
+    "category": "Crop Insurance"
+  },
+  {
+    "id": "soil-health-card",
+    "name": "Soil Health Card Scheme",
+    "shortName": "Soil Health Card",
+    "benefit": "Free soil testing report every 2 years with crop-wise fertilizer and nutrient recommendations.",
+    "eligibility": "All farmers; soil samples collected by state agriculture departments / KVKs.",
+    "howToApply": "Contact your Gram Panchayat, local Krishi Vigyan Kendra (KVK), or visit soilhealth.dac.gov.in.",
+    "officialUrl": "https://soilhealth.dac.gov.in/",
+    "helpline": "1800-180-1551",
+    "category": "Soil & Fertilizer"
+  },
+  {
+    "id": "kcc",
+    "name": "Kisan Credit Card (KCC)",
+    "shortName": "Kisan Credit Card",
+    "benefit": "Short-term crop and farm loans at subsidized 4% effective interest rate on timely repayment.",
+    "eligibility": "Small/marginal farmers, tenant farmers, oral lessees, and animal husbandry/fishery farmers.",
+    "howToApply": "Apply at any Cooperative, Regional Rural, or Public Sector bank branch with Aadhaar, PAN, and land/lease proof.",
+    "officialUrl": "https://www.myscheme.gov.in/schemes/kcc",
+    "helpline": "1800-180-1551",
+    "category": "Low-Interest Credit"
+  },
+  {
+    "id": "enam",
+    "name": "e-NAM (National Agriculture Market)",
+    "shortName": "e-NAM Mandi",
+    "benefit": "Transparent online mandi bidding and direct bank payment for farm produce across APMC mandis.",
+    "eligibility": "Any farmer selling produce at an e-NAM linked mandi.",
+    "howToApply": "Register free at the mandi gate or enam.gov.in with Aadhaar, bank passbook, and mobile number.",
+    "officialUrl": "https://www.enam.gov.in/",
+    "helpline": "1800-270-0224",
+    "category": "Market & Prices"
+  }
+]
